@@ -1,0 +1,11 @@
+C:\Users\Muss\Source\Repos\AgendaP\AgendaP\bin\Debug\AgendaP.exe.config
+C:\Users\Muss\Source\Repos\AgendaP\AgendaP\bin\Debug\AgendaP.exe
+C:\Users\Muss\Source\Repos\AgendaP\AgendaP\bin\Debug\AgendaP.pdb
+C:\Users\Muss\Source\Repos\AgendaP\AgendaP\obj\Debug\AgendaP.csprojAssemblyReference.cache
+C:\Users\Muss\Source\Repos\AgendaP\AgendaP\obj\Debug\AgendaP.Form1.resources
+C:\Users\Muss\Source\Repos\AgendaP\AgendaP\obj\Debug\AgendaP.Properties.Resources.resources
+C:\Users\Muss\Source\Repos\AgendaP\AgendaP\obj\Debug\AgendaP.wfRegistro.resources
+C:\Users\Muss\Source\Repos\AgendaP\AgendaP\obj\Debug\AgendaP.csproj.GenerateResource.cache
+C:\Users\Muss\Source\Repos\AgendaP\AgendaP\obj\Debug\AgendaP.csproj.CoreCompileInputs.cache
+C:\Users\Muss\Source\Repos\AgendaP\AgendaP\obj\Debug\AgendaP.exe
+C:\Users\Muss\Source\Repos\AgendaP\AgendaP\obj\Debug\AgendaP.pdb

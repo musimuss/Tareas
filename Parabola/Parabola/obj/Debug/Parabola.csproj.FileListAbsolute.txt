@@ -1,0 +1,10 @@
+D:\Doc Ariel\Desarrollo de Sistemas I\Tareas\Tarea 6-12\Parabola\Parabola\obj\Debug\Parabola.csprojAssemblyReference.cache
+D:\Doc Ariel\Desarrollo de Sistemas I\Tareas\Tarea 6-12\Parabola\Parabola\obj\Debug\Parabola.Properties.Resources.resources
+D:\Doc Ariel\Desarrollo de Sistemas I\Tareas\Tarea 6-12\Parabola\Parabola\obj\Debug\Parabola.csproj.GenerateResource.cache
+D:\Doc Ariel\Desarrollo de Sistemas I\Tareas\Tarea 6-12\Parabola\Parabola\obj\Debug\Parabola.csproj.CoreCompileInputs.cache
+D:\Doc Ariel\Desarrollo de Sistemas I\Tareas\Tarea 6-12\Parabola\Parabola\bin\Debug\Parabola.exe.config
+D:\Doc Ariel\Desarrollo de Sistemas I\Tareas\Tarea 6-12\Parabola\Parabola\bin\Debug\Parabola.exe
+D:\Doc Ariel\Desarrollo de Sistemas I\Tareas\Tarea 6-12\Parabola\Parabola\bin\Debug\Parabola.pdb
+D:\Doc Ariel\Desarrollo de Sistemas I\Tareas\Tarea 6-12\Parabola\Parabola\obj\Debug\Parabola.exe
+D:\Doc Ariel\Desarrollo de Sistemas I\Tareas\Tarea 6-12\Parabola\Parabola\obj\Debug\Parabola.pdb
+D:\Doc Ariel\Desarrollo de Sistemas I\Tareas\Tarea 6-12\Parabola\Parabola\obj\Debug\Parabola.pbFormula.resources

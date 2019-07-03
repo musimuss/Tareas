@@ -1,0 +1,10 @@
+C:\Users\Muss\Source\Repos\verificadorIP\verificadorIP\bin\Debug\verificadorIP.exe.config
+C:\Users\Muss\Source\Repos\verificadorIP\verificadorIP\bin\Debug\verificadorIP.exe
+C:\Users\Muss\Source\Repos\verificadorIP\verificadorIP\bin\Debug\verificadorIP.pdb
+C:\Users\Muss\Source\Repos\verificadorIP\verificadorIP\obj\Debug\verificadorIP.csprojAssemblyReference.cache
+C:\Users\Muss\Source\Repos\verificadorIP\verificadorIP\obj\Debug\verificadorIP.Form1.resources
+C:\Users\Muss\Source\Repos\verificadorIP\verificadorIP\obj\Debug\verificadorIP.Properties.Resources.resources
+C:\Users\Muss\Source\Repos\verificadorIP\verificadorIP\obj\Debug\verificadorIP.csproj.GenerateResource.cache
+C:\Users\Muss\Source\Repos\verificadorIP\verificadorIP\obj\Debug\verificadorIP.csproj.CoreCompileInputs.cache
+C:\Users\Muss\Source\Repos\verificadorIP\verificadorIP\obj\Debug\verificadorIP.exe
+C:\Users\Muss\Source\Repos\verificadorIP\verificadorIP\obj\Debug\verificadorIP.pdb
